@@ -5,7 +5,7 @@ The name of the website is Kalakaari and it is built using React and SASS. It sh
 
 # Prerequisites:
 - React JS
-- Sass & CSS
+- Sass & CSS 
 - JSX
 - ReactJS Components
 # Approach to Create E-Commerce Website:
